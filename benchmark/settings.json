@@ -1,7 +1,7 @@
 {
     "key": {
-        "name": "typhon-usa",
-        "path": "/home/naqib/.ssh/aws.pub"
+        "name": "aws2",
+        "path": "/home/naqib/.ssh/aws2"
     },
     "port": 5000,
     "repo": {
