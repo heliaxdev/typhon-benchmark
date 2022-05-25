@@ -1,12 +1,12 @@
 {
     "key": {
-        "name": "aws",
-        "path": "/Users/asonnino/.ssh/aws.pem"
+        "name": "typhon-usa",
+        "path": "/home/naqib/.ssh/aws.pub"
     },
     "port": 5000,
     "repo": {
-        "name": "narwhal",
-        "url": "https://github.com/asonnino/narwhal",
+        "name": "typhon-benchmark",
+        "url": "https://github.com/heliaxdev/typhon-benchmark.git",
         "branch": "master"
     },
     "instances": {
